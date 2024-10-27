@@ -1,0 +1,15 @@
+/*
+ Theme Name: Simple E-Commerce
+ Theme URI: https://example.com
+ Description: A simple eCommerce theme for WordPress
+ Version: 1.0
+ Author: Your Name
+ Author URI: https://example.com
+ Text Domain: simple-ecommerce
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
